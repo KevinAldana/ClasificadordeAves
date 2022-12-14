@@ -1,0 +1,1 @@
+web: gunicorn <ClasificacionAves>.wsgi --log-file
